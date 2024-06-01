@@ -5,8 +5,6 @@ const MovieApp = () => {
   const [movies, setMovies] = useState([]);
   const [loading, setLoading] = useState(true);
 
-  // let a = 10;
-
   useEffect(() => {
     const fetchMovies = async () => {
       try {
@@ -26,6 +24,7 @@ const MovieApp = () => {
 
   if (loading) {
     return <div>Loading......</div>;
+
   }
 
   return (

@@ -20,10 +20,25 @@
 
 # ? 9. Displaying Data.
 
-// ? 10. Adding Styles.
-// ? 11. Conditional Rendering.
-// ? 12. Rendering Lists.
-// ? 13. React Fragments.
+# ? 10. Adding Styles.
+
+# ? 11. Conditional Rendering.
+
+# ? 12. Rendering Lists.
+
+# ? 13. React Fragments.
+
+# ? 14. Props in React.
+
+# ? 15. Re-usable Components using Props.
+
+# ? 16. States Introduction using Hooks.
+
+# ? 17. Event Handling.
+
+# ? 18. Forms.
+
+# ? 19. Validations.
 
 // React JS, commonly referred to as React, is an open-source JavaScript library used for building user interfaces, particularly for single-page applications where data updates dynamically. Developed and maintained by Facebook and a community of individual developers, React is designed to facilitate the creation of interactive and reusable UI components.
 
@@ -33,3 +48,8 @@
 <!-- 4. Virtual DOM and Real DOM -->
 <!-- 5. State Management -->
 <!-- 6. Undirectional Flow of code -->
+
+
+# ? Forms in React
+# * Controlled COMPONENTS
+Controlled components in React are components where form data is handled by the React component's state.
