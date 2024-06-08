@@ -49,7 +49,16 @@
 <!-- 5. State Management -->
 <!-- 6. Undirectional Flow of code -->
 
-
 # ? Forms in React
-# * Controlled COMPONENTS
+
+# \* Controlled COMPONENTS
+
 Controlled components in React are components where form data is handled by the React component's state.
+
+# 20. useEffect Hook.
+
+
+<!-- Component Lifecycle in React -->
+<!-- useEffect -->
+<!-- useContext -->
+<!-- HOC -->

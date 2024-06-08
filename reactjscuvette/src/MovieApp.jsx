@@ -20,6 +20,8 @@ const MovieApp = () => {
     };
     fetchMovies();
   }, []);
+
+  
   console.log(movies);
 
   if (loading) {
